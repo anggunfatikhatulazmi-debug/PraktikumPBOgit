@@ -1,6 +1,6 @@
 # Sistem Penyewaan Kendaraan Berbasis Java (OOP)
 
-Praktik Lab Session 3B – Pemrograman Berorientasi Objek (PBO)
+Praktik Lab Session 2 – Pemrograman Berorientasi Objek (PBO)
 
 Program sederhana berbasis Java untuk mengelola penyewaan mobil dan motor dengan menerapkan konsep Object-Oriented Programming (OOP).
 
@@ -149,4 +149,4 @@ NMAX : Sedang Disewa
 
 ## Author
 
-Praktik Lab Session 3B – PBO
+Praktik Lab Session 2 – PBO
